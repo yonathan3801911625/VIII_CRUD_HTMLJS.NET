@@ -1,0 +1,85 @@
+C:\Users\Shonatan\source\repos\WebEjemplo\WebEjemplo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Shonatan\source\repos\WebEjemplo\WebEjemplo\bin\Debug\net6.0\appsettings.json
+C:\Users\Shonatan\source\repos\WebEjemplo\WebEjemplo\bin\Debug\net6.0\WebEjemplo.exe
+C:\Users\Shonatan\source\repos\WebEjemplo\WebEjemplo\bin\Debug\net6.0\WebEjemplo.deps.json
+C:\Users\Shonatan\source\repos\WebEjemplo\WebEjemplo\bin\Debug\net6.0\WebEjemplo.runtimeconfig.json
+C:\Users\Shonatan\source\repos\WebEjemplo\WebEjemplo\bin\Debug\net6.0\WebEjemplo.dll
+C:\Users\Shonatan\source\repos\WebEjemplo\WebEjemplo\bin\Debug\net6.0\WebEjemplo.pdb
+C:\Users\Shonatan\source\repos\WebEjemplo\WebEjemplo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Shonatan\source\repos\WebEjemplo\WebEjemplo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Shonatan\source\repos\WebEjemplo\WebEjemplo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Shonatan\source\repos\WebEjemplo\WebEjemplo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Shonatan\source\repos\WebEjemplo\WebEjemplo\obj\Debug\net6.0\WebEjemplo.csproj.AssemblyReference.cache
+C:\Users\Shonatan\source\repos\WebEjemplo\WebEjemplo\obj\Debug\net6.0\WebEjemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shonatan\source\repos\WebEjemplo\WebEjemplo\obj\Debug\net6.0\WebEjemplo.AssemblyInfoInputs.cache
+C:\Users\Shonatan\source\repos\WebEjemplo\WebEjemplo\obj\Debug\net6.0\WebEjemplo.AssemblyInfo.cs
+C:\Users\Shonatan\source\repos\WebEjemplo\WebEjemplo\obj\Debug\net6.0\WebEjemplo.csproj.CoreCompileInputs.cache
+C:\Users\Shonatan\source\repos\WebEjemplo\WebEjemplo\obj\Debug\net6.0\WebEjemplo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Shonatan\source\repos\WebEjemplo\WebEjemplo\obj\Debug\net6.0\WebEjemplo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Shonatan\source\repos\WebEjemplo\WebEjemplo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Shonatan\source\repos\WebEjemplo\WebEjemplo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Shonatan\source\repos\WebEjemplo\WebEjemplo\obj\Debug\net6.0\scopedcss\bundle\WebEjemplo.styles.css
+C:\Users\Shonatan\source\repos\WebEjemplo\WebEjemplo\obj\Debug\net6.0\WebEjemplo.csproj.CopyComplete
+C:\Users\Shonatan\source\repos\WebEjemplo\WebEjemplo\obj\Debug\net6.0\WebEjemplo.dll
+C:\Users\Shonatan\source\repos\WebEjemplo\WebEjemplo\obj\Debug\net6.0\refint\WebEjemplo.dll
+C:\Users\Shonatan\source\repos\WebEjemplo\WebEjemplo\obj\Debug\net6.0\WebEjemplo.pdb
+C:\Users\Shonatan\source\repos\WebEjemplo\WebEjemplo\obj\Debug\net6.0\WebEjemplo.genruntimeconfig.cache
+C:\Users\Shonatan\source\repos\WebEjemplo\WebEjemplo\obj\Debug\net6.0\ref\WebEjemplo.dll
+E:\U Caldas\Semestre VIII\Clases\Desarrollo de sistemas de informacion Empresariales\Cristian Giovanni Castrillon Arias\.net\WebEjemplo\WebEjemplo\bin\Debug\net6.0\appsettings.Development.json
+E:\U Caldas\Semestre VIII\Clases\Desarrollo de sistemas de informacion Empresariales\Cristian Giovanni Castrillon Arias\.net\WebEjemplo\WebEjemplo\bin\Debug\net6.0\appsettings.json
+E:\U Caldas\Semestre VIII\Clases\Desarrollo de sistemas de informacion Empresariales\Cristian Giovanni Castrillon Arias\.net\WebEjemplo\WebEjemplo\bin\Debug\net6.0\WebEjemplo.exe
+E:\U Caldas\Semestre VIII\Clases\Desarrollo de sistemas de informacion Empresariales\Cristian Giovanni Castrillon Arias\.net\WebEjemplo\WebEjemplo\bin\Debug\net6.0\WebEjemplo.deps.json
+E:\U Caldas\Semestre VIII\Clases\Desarrollo de sistemas de informacion Empresariales\Cristian Giovanni Castrillon Arias\.net\WebEjemplo\WebEjemplo\bin\Debug\net6.0\WebEjemplo.runtimeconfig.json
+E:\U Caldas\Semestre VIII\Clases\Desarrollo de sistemas de informacion Empresariales\Cristian Giovanni Castrillon Arias\.net\WebEjemplo\WebEjemplo\bin\Debug\net6.0\WebEjemplo.dll
+E:\U Caldas\Semestre VIII\Clases\Desarrollo de sistemas de informacion Empresariales\Cristian Giovanni Castrillon Arias\.net\WebEjemplo\WebEjemplo\bin\Debug\net6.0\WebEjemplo.pdb
+E:\U Caldas\Semestre VIII\Clases\Desarrollo de sistemas de informacion Empresariales\Cristian Giovanni Castrillon Arias\.net\WebEjemplo\WebEjemplo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\U Caldas\Semestre VIII\Clases\Desarrollo de sistemas de informacion Empresariales\Cristian Giovanni Castrillon Arias\.net\WebEjemplo\WebEjemplo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\U Caldas\Semestre VIII\Clases\Desarrollo de sistemas de informacion Empresariales\Cristian Giovanni Castrillon Arias\.net\WebEjemplo\WebEjemplo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\U Caldas\Semestre VIII\Clases\Desarrollo de sistemas de informacion Empresariales\Cristian Giovanni Castrillon Arias\.net\WebEjemplo\WebEjemplo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\U Caldas\Semestre VIII\Clases\Desarrollo de sistemas de informacion Empresariales\Cristian Giovanni Castrillon Arias\.net\WebEjemplo\WebEjemplo\obj\Debug\net6.0\WebEjemplo.csproj.AssemblyReference.cache
+E:\U Caldas\Semestre VIII\Clases\Desarrollo de sistemas de informacion Empresariales\Cristian Giovanni Castrillon Arias\.net\WebEjemplo\WebEjemplo\obj\Debug\net6.0\WebEjemplo.GeneratedMSBuildEditorConfig.editorconfig
+E:\U Caldas\Semestre VIII\Clases\Desarrollo de sistemas de informacion Empresariales\Cristian Giovanni Castrillon Arias\.net\WebEjemplo\WebEjemplo\obj\Debug\net6.0\WebEjemplo.AssemblyInfoInputs.cache
+E:\U Caldas\Semestre VIII\Clases\Desarrollo de sistemas de informacion Empresariales\Cristian Giovanni Castrillon Arias\.net\WebEjemplo\WebEjemplo\obj\Debug\net6.0\WebEjemplo.AssemblyInfo.cs
+E:\U Caldas\Semestre VIII\Clases\Desarrollo de sistemas de informacion Empresariales\Cristian Giovanni Castrillon Arias\.net\WebEjemplo\WebEjemplo\obj\Debug\net6.0\WebEjemplo.csproj.CoreCompileInputs.cache
+E:\U Caldas\Semestre VIII\Clases\Desarrollo de sistemas de informacion Empresariales\Cristian Giovanni Castrillon Arias\.net\WebEjemplo\WebEjemplo\obj\Debug\net6.0\WebEjemplo.MvcApplicationPartsAssemblyInfo.cs
+E:\U Caldas\Semestre VIII\Clases\Desarrollo de sistemas de informacion Empresariales\Cristian Giovanni Castrillon Arias\.net\WebEjemplo\WebEjemplo\obj\Debug\net6.0\WebEjemplo.MvcApplicationPartsAssemblyInfo.cache
+E:\U Caldas\Semestre VIII\Clases\Desarrollo de sistemas de informacion Empresariales\Cristian Giovanni Castrillon Arias\.net\WebEjemplo\WebEjemplo\obj\Debug\net6.0\staticwebassets.build.json
+E:\U Caldas\Semestre VIII\Clases\Desarrollo de sistemas de informacion Empresariales\Cristian Giovanni Castrillon Arias\.net\WebEjemplo\WebEjemplo\obj\Debug\net6.0\staticwebassets.development.json
+E:\U Caldas\Semestre VIII\Clases\Desarrollo de sistemas de informacion Empresariales\Cristian Giovanni Castrillon Arias\.net\WebEjemplo\WebEjemplo\obj\Debug\net6.0\scopedcss\bundle\WebEjemplo.styles.css
+E:\U Caldas\Semestre VIII\Clases\Desarrollo de sistemas de informacion Empresariales\Cristian Giovanni Castrillon Arias\.net\WebEjemplo\WebEjemplo\obj\Debug\net6.0\WebEjemplo.csproj.CopyComplete
+E:\U Caldas\Semestre VIII\Clases\Desarrollo de sistemas de informacion Empresariales\Cristian Giovanni Castrillon Arias\.net\WebEjemplo\WebEjemplo\obj\Debug\net6.0\WebEjemplo.dll
+E:\U Caldas\Semestre VIII\Clases\Desarrollo de sistemas de informacion Empresariales\Cristian Giovanni Castrillon Arias\.net\WebEjemplo\WebEjemplo\obj\Debug\net6.0\refint\WebEjemplo.dll
+E:\U Caldas\Semestre VIII\Clases\Desarrollo de sistemas de informacion Empresariales\Cristian Giovanni Castrillon Arias\.net\WebEjemplo\WebEjemplo\obj\Debug\net6.0\WebEjemplo.pdb
+E:\U Caldas\Semestre VIII\Clases\Desarrollo de sistemas de informacion Empresariales\Cristian Giovanni Castrillon Arias\.net\WebEjemplo\WebEjemplo\obj\Debug\net6.0\WebEjemplo.genruntimeconfig.cache
+E:\U Caldas\Semestre VIII\Clases\Desarrollo de sistemas de informacion Empresariales\Cristian Giovanni Castrillon Arias\.net\WebEjemplo\WebEjemplo\obj\Debug\net6.0\ref\WebEjemplo.dll
+E:\U Caldas\Semestre VIII\Clases\Desarrollo de sistemas de informacion Empresariales\Cristian Giovanni Castrillon Arias\.net\WebEjemplo\WebEjemplo\bin\Debug\net6.0\Npgsql.dll
+D:\U Caldas\Semestre VIII\Clases\Desarrollo de sistemas de informacion Empresariales\Cristian Giovanni Castrillon Arias\.net\WebEjemplo\WebEjemplo\bin\Debug\net6.0\appsettings.Development.json
+D:\U Caldas\Semestre VIII\Clases\Desarrollo de sistemas de informacion Empresariales\Cristian Giovanni Castrillon Arias\.net\WebEjemplo\WebEjemplo\bin\Debug\net6.0\appsettings.json
+D:\U Caldas\Semestre VIII\Clases\Desarrollo de sistemas de informacion Empresariales\Cristian Giovanni Castrillon Arias\.net\WebEjemplo\WebEjemplo\bin\Debug\net6.0\WebEjemplo.exe
+D:\U Caldas\Semestre VIII\Clases\Desarrollo de sistemas de informacion Empresariales\Cristian Giovanni Castrillon Arias\.net\WebEjemplo\WebEjemplo\bin\Debug\net6.0\WebEjemplo.deps.json
+D:\U Caldas\Semestre VIII\Clases\Desarrollo de sistemas de informacion Empresariales\Cristian Giovanni Castrillon Arias\.net\WebEjemplo\WebEjemplo\bin\Debug\net6.0\WebEjemplo.runtimeconfig.json
+D:\U Caldas\Semestre VIII\Clases\Desarrollo de sistemas de informacion Empresariales\Cristian Giovanni Castrillon Arias\.net\WebEjemplo\WebEjemplo\bin\Debug\net6.0\WebEjemplo.dll
+D:\U Caldas\Semestre VIII\Clases\Desarrollo de sistemas de informacion Empresariales\Cristian Giovanni Castrillon Arias\.net\WebEjemplo\WebEjemplo\bin\Debug\net6.0\WebEjemplo.pdb
+D:\U Caldas\Semestre VIII\Clases\Desarrollo de sistemas de informacion Empresariales\Cristian Giovanni Castrillon Arias\.net\WebEjemplo\WebEjemplo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\U Caldas\Semestre VIII\Clases\Desarrollo de sistemas de informacion Empresariales\Cristian Giovanni Castrillon Arias\.net\WebEjemplo\WebEjemplo\bin\Debug\net6.0\Npgsql.dll
+D:\U Caldas\Semestre VIII\Clases\Desarrollo de sistemas de informacion Empresariales\Cristian Giovanni Castrillon Arias\.net\WebEjemplo\WebEjemplo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\U Caldas\Semestre VIII\Clases\Desarrollo de sistemas de informacion Empresariales\Cristian Giovanni Castrillon Arias\.net\WebEjemplo\WebEjemplo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\U Caldas\Semestre VIII\Clases\Desarrollo de sistemas de informacion Empresariales\Cristian Giovanni Castrillon Arias\.net\WebEjemplo\WebEjemplo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\U Caldas\Semestre VIII\Clases\Desarrollo de sistemas de informacion Empresariales\Cristian Giovanni Castrillon Arias\.net\WebEjemplo\WebEjemplo\obj\Debug\net6.0\WebEjemplo.csproj.AssemblyReference.cache
+D:\U Caldas\Semestre VIII\Clases\Desarrollo de sistemas de informacion Empresariales\Cristian Giovanni Castrillon Arias\.net\WebEjemplo\WebEjemplo\obj\Debug\net6.0\WebEjemplo.GeneratedMSBuildEditorConfig.editorconfig
+D:\U Caldas\Semestre VIII\Clases\Desarrollo de sistemas de informacion Empresariales\Cristian Giovanni Castrillon Arias\.net\WebEjemplo\WebEjemplo\obj\Debug\net6.0\WebEjemplo.AssemblyInfoInputs.cache
+D:\U Caldas\Semestre VIII\Clases\Desarrollo de sistemas de informacion Empresariales\Cristian Giovanni Castrillon Arias\.net\WebEjemplo\WebEjemplo\obj\Debug\net6.0\WebEjemplo.AssemblyInfo.cs
+D:\U Caldas\Semestre VIII\Clases\Desarrollo de sistemas de informacion Empresariales\Cristian Giovanni Castrillon Arias\.net\WebEjemplo\WebEjemplo\obj\Debug\net6.0\WebEjemplo.csproj.CoreCompileInputs.cache
+D:\U Caldas\Semestre VIII\Clases\Desarrollo de sistemas de informacion Empresariales\Cristian Giovanni Castrillon Arias\.net\WebEjemplo\WebEjemplo\obj\Debug\net6.0\WebEjemplo.MvcApplicationPartsAssemblyInfo.cs
+D:\U Caldas\Semestre VIII\Clases\Desarrollo de sistemas de informacion Empresariales\Cristian Giovanni Castrillon Arias\.net\WebEjemplo\WebEjemplo\obj\Debug\net6.0\WebEjemplo.MvcApplicationPartsAssemblyInfo.cache
+D:\U Caldas\Semestre VIII\Clases\Desarrollo de sistemas de informacion Empresariales\Cristian Giovanni Castrillon Arias\.net\WebEjemplo\WebEjemplo\obj\Debug\net6.0\staticwebassets.build.json
+D:\U Caldas\Semestre VIII\Clases\Desarrollo de sistemas de informacion Empresariales\Cristian Giovanni Castrillon Arias\.net\WebEjemplo\WebEjemplo\obj\Debug\net6.0\staticwebassets.development.json
+D:\U Caldas\Semestre VIII\Clases\Desarrollo de sistemas de informacion Empresariales\Cristian Giovanni Castrillon Arias\.net\WebEjemplo\WebEjemplo\obj\Debug\net6.0\scopedcss\bundle\WebEjemplo.styles.css
+D:\U Caldas\Semestre VIII\Clases\Desarrollo de sistemas de informacion Empresariales\Cristian Giovanni Castrillon Arias\.net\WebEjemplo\WebEjemplo\obj\Debug\net6.0\WebEjemplo.csproj.CopyComplete
+D:\U Caldas\Semestre VIII\Clases\Desarrollo de sistemas de informacion Empresariales\Cristian Giovanni Castrillon Arias\.net\WebEjemplo\WebEjemplo\obj\Debug\net6.0\WebEjemplo.dll
+D:\U Caldas\Semestre VIII\Clases\Desarrollo de sistemas de informacion Empresariales\Cristian Giovanni Castrillon Arias\.net\WebEjemplo\WebEjemplo\obj\Debug\net6.0\refint\WebEjemplo.dll
+D:\U Caldas\Semestre VIII\Clases\Desarrollo de sistemas de informacion Empresariales\Cristian Giovanni Castrillon Arias\.net\WebEjemplo\WebEjemplo\obj\Debug\net6.0\WebEjemplo.pdb
+D:\U Caldas\Semestre VIII\Clases\Desarrollo de sistemas de informacion Empresariales\Cristian Giovanni Castrillon Arias\.net\WebEjemplo\WebEjemplo\obj\Debug\net6.0\WebEjemplo.genruntimeconfig.cache
+D:\U Caldas\Semestre VIII\Clases\Desarrollo de sistemas de informacion Empresariales\Cristian Giovanni Castrillon Arias\.net\WebEjemplo\WebEjemplo\obj\Debug\net6.0\ref\WebEjemplo.dll
+D:\U Caldas\Semestre VIII\Clases\Desarrollo de sistemas de informacion Empresariales\Cristian Giovanni Castrillon Arias\.net\WebEjemplo\WebEjemplo\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\U Caldas\Semestre VIII\Clases\Desarrollo de sistemas de informacion Empresariales\Cristian Giovanni Castrillon Arias\.net\WebEjemplo\WebEjemplo\bin\Debug\net6.0\System.Linq.Dynamic.Core.dll
